@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A Python script that contains a function solves minimum operations task.
+'''A Python script that has a function that solves minimum operations task.
 '''
 
 
