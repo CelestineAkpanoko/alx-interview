@@ -4,7 +4,7 @@
 
 
 def minOperations(n):
-    '''Calculates the fewest number of operations 
+    '''Calculates the fewest number of operations
     needed to result in exactly n H characters in the file.
     '''
     if not isinstance(n, int):
